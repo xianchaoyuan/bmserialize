@@ -1,0 +1,6 @@
+# qtcreator generated files
+*.user
+
+# MinGW generated files
+*.Debug
+*.Release
